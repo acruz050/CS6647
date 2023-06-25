@@ -1,5 +1,5 @@
 # CS6647
-Simulation and Modeling course
+Simulation and Modeling course.
 Learn about concepts such as randomness.
 Explore data generating processes, resampling methods, and bootstrapping techniques.
 Learn key algorithms such as Monte Carlo simulations and the Markov Decision Process, which are used to develop numerical simulation models, and discover how they can be used to solve real-world problems.
